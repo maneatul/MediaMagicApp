@@ -4,6 +4,9 @@ This is an image collection  application . design in Model-View-View Model desig
 Below are the execution steps:
 
 clone this directory using - git clone https://github.com/maneatul/MediaMagicApp.git
+
 cd MediaMagicApp
+
 Open the MediaMagicApp.xcodeproj file
+
 Run the application.
